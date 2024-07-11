@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Kanchan039
+- 👀 I’m interested in photography 
+- 🌱 I’m currently learning some tech subjects 
+- 💞️ I’m looking to collaborate on tech projects 
+- 📫 Reach out me through bhartikanchan039@gmail.com or Insta Handle @imagination039
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to explore everything

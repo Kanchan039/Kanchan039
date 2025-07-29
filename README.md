@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kanchan039
-- 👀 I’m interested in photography 
-- 🌱 I’m currently learning some tech subjects 
-- 💞️ I’m looking to collaborate on tech projects 
+- 👋 Hi, I’m Kanchan
+- 👀 My hobbies include photography, binge watching (sometimes), explore new things.
+- 🌱 I’m currently pursuing M.Sc. Mathematics and learning some tech knowledge side by side.
+- 💞️ I’m looking to collaborate on tech projects.
 - 📫 Reach out me through bhartikanchan039@gmail.com or Insta Handle @imagination039
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to explore everything
+- ⚡ Fun fact: I love to explore everything. I am a curious bird.

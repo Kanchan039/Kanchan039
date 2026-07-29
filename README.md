@@ -1,7 +1,20 @@
-- 👋 Hi, I’m Kanchan
-- 👀 My hobbies include photography, binge watching (sometimes), explore new things.
-- 🌱 I’m currently pursuing M.Sc. Mathematics and learning some tech knowledge side by side.
-- 💞️ I’m looking to collaborate on tech projects.
-- 📫 Reach out me through bhartikanchan039@gmail.com or Insta Handle @imagination039
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to explore everything. I am a curious bird.
+Hi, I'm Kanchan Bharti 👋
+
+M.Sc. Mathematics (IIT Kanpur)
+PhD Student in Computer Science at Ashoka University
+
+My interests include
+
+• Machine Learning
+• Artificial Intelligence
+• Graph Algorithms
+• Data Science
+• Mathematical Optimization
+• Scientific Computing
+
+
+Open to
+
+• Research collaborations
+• Open-source contributions
+• AI internships
